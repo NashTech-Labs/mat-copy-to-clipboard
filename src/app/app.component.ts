@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'copy-to-clipboard';
+  value ="You can copy this text by clicking on copy button";
+  id="1gf679898nbnbb"
 }
